@@ -68,3 +68,4 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+src/assets/OpenJDK8U-jdk_x64_windows_hotspot_8u432b06.zip
