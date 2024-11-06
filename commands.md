@@ -11,7 +11,7 @@
 
 - Instalamos el JDK y SDK  en las variables  
 ![alt text](image.png)  
-
+ 
 Y en la variable path colocamos estas instalaciones  
 ![alt text](image-2.png)
 
